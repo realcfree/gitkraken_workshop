@@ -1,4 +1,4 @@
-# An excercise in R
+# An excercise in R!
 
 
 # Print Hello World
